@@ -6,7 +6,7 @@
 <ul>
   <li>Linguagem C: linguagem de programação muito utilizada em sistemas embarcados por conta da sua eficiência e controle de hardware;</li>
   <li><a href="https://www.arduino.cc/en/software">Arduino IDE</a>: Ambiente de desenvolvimento integrado (IDE) para a plataforma Arduino;</li>
-  <li><a href="https://www.tinkercad.com">Tincad</a>: Aplicativo gratuito utilizado para criar circuitos e testá-los.</li>
+  <li><a href="https://www.tinkercad.com">Tinkercad</a>: Aplicativo gratuito utilizado para criar circuitos e testá-los.</li>
 </ul>
 
 <h1>Lista de Componentes Utilizados</h1>
@@ -58,4 +58,4 @@
 <li><a href="https://github.com/MuriloRPrado/sensor-ultrassonico/blob/main/SensorUltrassonicoComAcionamentoDeBuzzer/SensorUltrassonicoComAcionamentoDeBuzzer.ino">SensorUltrassonicoComAcionamentoDeBuzzer.ino</a>: Código do projeto que foi desenvolvido no Arduino IDE.</li>
 
 <h1>Referências</h1>
-<li><a href="https://blog.eletrogate.com/sensor-ultrassonico-hc-sr04-com-arduino/">https://blog.eletrogate.com/sensor-ultrassonico-hc-sr04-com-arduino/</a><li>
+<li><a href="https://blog.eletrogate.com/sensor-ultrassonico-hc-sr04-com-arduino/">https://blog.eletrogate.com/sensor-ultrassonico-hc-sr04-com-arduino/</a></li>
