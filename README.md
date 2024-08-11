@@ -54,7 +54,8 @@
 
 <li><a href="https://github.com/MuriloRPrado/sensor-ultrassonico/blob/main/SensorUltrassonicoComAcionamentoDeBuzzer/Sensor%20Ultrass%C3%B4nico%20com%20acionamento%20de%20Buzzer.pdf">Sensor Ultrassônico com acionamento de Buzzer.pdf</a>: PDF que mostra a visão esquemática do circuito;</li>
 <li><a href="https://github.com/MuriloRPrado/sensor-ultrassonico/blob/main/SensorUltrassonicoComAcionamentoDeBuzzer/Sensor%20Ultrass%C3%B4nico%20com%20acionamento%20de%20Buzzer.png">Sensor Ultrassônico com acionamento de Buzzer.png</a>: Imagem que mostra a visão do circuito montado;</li>
+<li><a href="https://github.com/MuriloRPrado/sensor-ultrassonico/blob/main/SensorUltrassonicoComAcionamentoDeBuzzer/Sensor%20Ultrass%C3%B4nico%20com%20acionamento%20de%20Buzzer.jpeg">Sensor Ultrassônico com acionamento de Buzzer.jpeg</a>: Imagem que mostra o circuito montado;</li>
 <li><a href="https://github.com/MuriloRPrado/sensor-ultrassonico/blob/main/SensorUltrassonicoComAcionamentoDeBuzzer/SensorUltrassonicoComAcionamentoDeBuzzer.ino">SensorUltrassonicoComAcionamentoDeBuzzer.ino</a>: Código do projeto que foi desenvolvido no Arduino IDE.</li>
 
-
-
+<h1>Referências</h1>
+<li><a href="https://blog.eletrogate.com/sensor-ultrassonico-hc-sr04-com-arduino/">https://blog.eletrogate.com/sensor-ultrassonico-hc-sr04-com-arduino/</a><li>
